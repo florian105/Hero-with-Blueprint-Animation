@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Florian Nègre - Growth Architecture</title>
+  <title>Florian Nègre - Architecture de Croissance</title>
   <style>
     * {
       margin: 0;
@@ -372,45 +372,45 @@
   <div class="hero-container">
     <!-- Left Column - Content -->
     <div class="hero-content">
-      <span class="hero-pill">Strategic Growth Leadership</span>
+      <span class="hero-pill">Leadership Stratégique de Croissance</span>
       
       <h1 class="hero-headline">
-        Grow your B2B revenue<br><span class="highlight">with AI & Data</span>
+        Accélérez votre croissance B2B<br><span class="highlight">avec l'IA et la Data</span>
       </h1>
       
       <p class="hero-subheadline">
-        Fractional Chief Growth Officer for mid-sized B2B companies (€2M-€30M+). I design revenue systems that align strategy, data, and teams.
+        Directeur de Croissance Fractionné pour PMEs B2B (€2M-€30M+). Je conçois les systèmes de revenus qui alignent stratégie, données et équipes.
       </p>
 
       <div class="hero-benefits">
         <div class="benefit-item">
           <span class="benefit-icon">✓</span>
-          <span>Strategic growth architecture & C-suite advisory</span>
+          <span>Architecture de croissance stratégique & conseil C-suite</span>
         </div>
         <div class="benefit-item">
           <span class="benefit-icon">✓</span>
-          <span>AI revenue systems with compliance built-in</span>
+          <span>Systèmes de revenus IA avec conformité intégrée</span>
         </div>
         <div class="benefit-item">
           <span class="benefit-icon">✓</span>
-          <span>Data-driven visibility & demand strategies</span>
+          <span>Stratégies de visibilité & demande data-driven</span>
         </div>
         <div class="benefit-item">
           <span class="benefit-icon">✓</span>
-          <span>Executive training & capability building</span>
+          <span>Formation des dirigeants & développement des compétences</span>
         </div>
       </div>
 
       <p class="hero-trust">
-        Trusted by 30+ B2B companies | Average 3.2x ROI in 6 months
+        Partenaire de 30+ entreprises B2B | ROI moyen de 3.2x en 6 mois
       </p>
 
       <div class="hero-cta">
         <a href="https://www.negreflorian.com/tool-revenue-architecture-diagnostic" class="cta-button cta-primary" target="_blank" rel="noopener noreferrer">
-          Take Assessment →
+          Faire le Diagnostic →
         </a>
         <a href="https://www.negreflorian.com/case-studies-high-impact-digital-projects-florian-negre" class="cta-button cta-secondary">
-          See Client Results
+          Voir les Résultats Clients
         </a>
       </div>
     </div>
