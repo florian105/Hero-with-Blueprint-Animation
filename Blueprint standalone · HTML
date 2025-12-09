@@ -255,8 +255,7 @@
           Compliance
         </text>
         <text class="stat-text" x="200" y="554" text-anchor="middle" fill="#d6ff3f" font-size="10" font-family="'SF Mono', 'Courier New', monospace">
-          <tspan x="200" dy="0">GDPR, HIPAA,</tspan>
-          <tspan x="200" dy="12">PCI DSS compliant</tspan>
+          <tspan x="200" dy="0">GDPR, CCPA/CPRA compliant</tspan>
         </text>
       </g>
     </svg>
