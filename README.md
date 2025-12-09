@@ -3,10 +3,7 @@
 Description
 
 Reusable SVG blueprint animation showing the 4-pillar growth architecture:
-Strategy: C-suite advisory
-Data: Built-in, unified API, no vendor lock-in
-Teams: 30+ clients
-Compliance: GDPR, HIPAA, PCI DSS compliant
+Strategy: C-suite advisory, Data, Teams and Compliance
 
 Complete hero section featuring
 
@@ -31,9 +28,9 @@ Glow effect on hover
 
 Usage
 
-Copy hero-ultranoir-style.html content
+Copy hero-style.html content
 Paste into Custom Code section
-Adjust CTA links as needed
+Adjust texts and CTA links as needed
 Deploy
 
 Method 1: Direct Embed
@@ -55,9 +52,9 @@ html<div style="display: grid; grid-template-columns: 1fr 1fr;">
 Linguistic Solution
 This blueprint is language-agnostic since box labels are in English universally understood in B2B tech.
 
-Works on EN pages
+Works on EN or FR pages (see versions for left column texts)
 Stats in hover tooltips are technical (GDPR, API, etc.)
-Translation needed
+Translation needed for left column text
 
 Customization
 To change subtitle text, edit the <text class="stat-text"> elements:
